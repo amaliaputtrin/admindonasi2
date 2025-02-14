@@ -1,0 +1,16 @@
+{
+    "name": "ninoandi/donasiweb",
+    "description": "aplikasi donasi web berbasis php untuk mempermudah para donatur",
+    "autoload": {
+        "psr-4": {
+            "Ninoandi\\Donasiweb\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ninoandi",
+            "email": "ninoandi2002@gmail.com"
+        }
+    ],
+    "require": {}
+}
